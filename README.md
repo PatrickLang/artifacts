@@ -11,6 +11,6 @@ This is a public collection of artifacts I commonly use in DevTest labs. It will
 
 ## Artifacts in this repo
 
-### Windows-Docker-v13-rc.json
+### Windows-Docker-v13-rc
 This runs a PowerShell script from [@StefanScherer's repo](https://github.com/StefanScherer/docker-windows-box/blob/master/swarm-mode/scripts/update-docker-rc.ps1) to upgrade the installed Docker Engine to the latest v1.13-rc build. This is based off the open source Docker, not the commercially supported version.
 
